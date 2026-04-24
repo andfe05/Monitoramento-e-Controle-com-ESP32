@@ -1,5 +1,4 @@
-📡 Monitoramento e Controle com ESP32
-📌 Descrição do Projeto
+## 📡 Monitoramento e Controle com ESP32
 
 Este projeto utiliza o microcontrolador ESP32 para realizar o monitoramento do nível de luminosidade através de um fotorresistor (LDR), exibindo as informações em um display LCD com comunicação I2C e controlando um LED de acordo com a intensidade da luz.
 
